@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  
+}
+
+canvas {
+  display: block;
+  margin: 0 auto;
+  
+}
+
+.nextlevel {
+  height:40px;
+  width:50px;
+}
+
+.button {
+  color:black;
+  background:lightgrey;
+  border:white;
+}
